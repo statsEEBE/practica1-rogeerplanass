@@ -26,3 +26,4 @@ IQR(mis_dades$mpg)
 boxplot(mis_dades$mpg)
 IQR(mis_dades$cyl)
 sd(mis_dades$cyl) #desviacio corregida
+var(mis_dades$qsec)
